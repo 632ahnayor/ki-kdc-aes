@@ -1,7 +1,7 @@
 """
 kdc.py: Key Distribution Center untuk langkah 1-2.
 
-Run: python kdc.py --host 127.0.0.1 --port 5000
+Run: python kdc.py --host 0.0.0.0 --port 5000
 """
 
 import argparse

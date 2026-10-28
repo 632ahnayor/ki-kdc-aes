@@ -1,7 +1,7 @@
 """
 alice.py: Initiator A untuk key distribution dan chat.
 
-Run: python alice.py --kdc 127.0.0.1:5000 --bob 127.0.0.1:6000
+Run: python alice.py --kdc 192.168.56.10:5000 --bob 192.168.56.12:6000
 """
 
 import argparse
